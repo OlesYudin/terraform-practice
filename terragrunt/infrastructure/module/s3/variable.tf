@@ -1,0 +1,1 @@
+#variable "local_tags" {}
